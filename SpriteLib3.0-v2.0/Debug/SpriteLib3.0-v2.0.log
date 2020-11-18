@@ -1,0 +1,280 @@
+﻿  AnimationController.cpp
+C:\Users\chutz\OneDrive\Desktop\New folder\IndianaJones\SpriteLib3.0-v2.0\AnimationController.cpp(60,23): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\chutz\OneDrive\Desktop\New folder\IndianaJones\SpriteLib3.0-v2.0\AnimationController.cpp(69,23): warning C4018: '>=': signed/unsigned mismatch
+  AnimationSpritePlayground.cpp
+  AnimationSystem.cpp
+  BackEnd.cpp
+  BloomEffect.cpp
+  Camera.cpp
+  CameraSystem.cpp
+  CanJump.cpp
+  DestroyTrigger.cpp
+C:\Users\chutz\OneDrive\Desktop\New folder\IndianaJones\SpriteLib3.0-v2.0\DestroyTrigger.cpp(10,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chutz\OneDrive\Desktop\New folder\IndianaJones\SpriteLib3.0-v2.0\DestroyTrigger.cpp(25,21): warning C4018: '<': signed/unsigned mismatch
+  ECS.cpp
+  EffectManager.cpp
+C:\Users\chutz\OneDrive\Desktop\New folder\IndianaJones\SpriteLib3.0-v2.0\EffectManager.cpp(43,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chutz\OneDrive\Desktop\New folder\IndianaJones\SpriteLib3.0-v2.0\EffectManager.cpp(348,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chutz\OneDrive\Desktop\New folder\IndianaJones\SpriteLib3.0-v2.0\EffectManager.cpp(359,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chutz\OneDrive\Desktop\New folder\IndianaJones\SpriteLib3.0-v2.0\EffectManager.cpp(386,20): warning C4018: '<': signed/unsigned mismatch
+  FirstCreation.cpp
+  Framebuffer.cpp
+  Game.cpp
+  GrainEffect.cpp
+  GreyscaleEffect.cpp
+  HorizontalScroll.cpp
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  Generating Code...
+  Compiling...
+  imgui_impl.cpp
+  imgui_widgets.cpp
+  Input.cpp
+  JSON.cpp
+  main.cpp
+  MainEntities.cpp
+  Matrix.cpp
+  PhysicsBody.cpp
+C:\Users\chutz\OneDrive\Desktop\New folder\IndianaJones\SpriteLib3.0-v2.0\PhysicsBody.cpp(90,21): warning C4018: '<': signed/unsigned mismatch
+  PhysicsPlayground.cpp
+C:\Users\chutz\OneDrive\Desktop\New folder\IndianaJones\SpriteLib3.0-v2.0\PhysicsPlayground.cpp(342,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\chutz\OneDrive\Desktop\New folder\IndianaJones\SpriteLib3.0-v2.0\PhysicsPlayground.cpp(346,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  PhysicsPlaygroundListener.cpp
+  PhysicsSystem.cpp
+C:\Users\chutz\OneDrive\Desktop\New folder\IndianaJones\SpriteLib3.0-v2.0\PhysicsSystem.cpp(161,20): warning C4018: '<': signed/unsigned mismatch
+  PixelateEffect.cpp
+  Player.cpp
+  PostEffect.cpp
+C:\Users\chutz\OneDrive\Desktop\New folder\IndianaJones\SpriteLib3.0-v2.0\PostEffect.cpp(51,20): warning C4018: '<': signed/unsigned mismatch
+  RenderingSystem.cpp
+  Scene.cpp
+C:\Users\chutz\OneDrive\Desktop\New folder\IndianaJones\SpriteLib3.0-v2.0\Scene.cpp(79,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Selectable.cpp
+  SelectiveColorEffect.cpp
+  SepiaEffect.cpp
+  Shader.cpp
+  Generating Code...
+  Compiling...
+  Sprite.cpp
+  Texture.cpp
+  TextureManager.cpp
+  Timer.cpp
+  Transform.cpp
+  Trigger.cpp
+  UI.cpp
+  Utilities.cpp
+  Vector.cpp
+C:\Users\chutz\OneDrive\Desktop\New folder\IndianaJones\SpriteLib3.0-v2.0\Vector.cpp(4,1): warning C4273: 'vec2::vec2': inconsistent dll linkage
+C:\Users\chutz\OneDrive\Desktop\New folder\IndianaJones\SpriteLib3.0-v2.0\Vector.h(20,2): message : see previous definition of '{ctor}'
+C:\Users\chutz\OneDrive\Desktop\New folder\IndianaJones\SpriteLib3.0-v2.0\Vector.cpp(8,1): warning C4273: 'vec2::vec2': inconsistent dll linkage
+C:\Users\chutz\OneDrive\Desktop\New folder\IndianaJones\SpriteLib3.0-v2.0\Vector.h(22,2): message : see previous definition of '{ctor}'
+C:\Users\chutz\OneDrive\Desktop\New folder\IndianaJones\SpriteLib3.0-v2.0\Vector.cpp(15,1): warning C4273: 'vec2::vec2': inconsistent dll linkage
+C:\Users\chutz\OneDrive\Desktop\New folder\IndianaJones\SpriteLib3.0-v2.0\Vector.h(23,2): message : see previous definition of '{ctor}'
+C:\Users\chutz\OneDrive\Desktop\New folder\IndianaJones\SpriteLib3.0-v2.0\Vector.cpp(21,1): warning C4273: 'vec2::Subtract': inconsistent dll linkage
+C:\Users\chutz\OneDrive\Desktop\New folder\IndianaJones\SpriteLib3.0-v2.0\Vector.h(31,7): message : see previous definition of 'Subtract'
+C:\Users\chutz\OneDrive\Desktop\New folder\IndianaJones\SpriteLib3.0-v2.0\Vector.cpp(28,1): warning C4273: 'vec2::MultScalar': inconsistent dll linkage
+C:\Users\chutz\OneDrive\Desktop\New folder\IndianaJones\SpriteLib3.0-v2.0\Vector.h(32,7): message : see previous definition of 'MultScalar'
+C:\Users\chutz\OneDrive\Desktop\New folder\IndianaJones\SpriteLib3.0-v2.0\Vector.cpp(35,1): warning C4273: 'vec2::DivScalar': inconsistent dll linkage
+C:\Users\chutz\OneDrive\Desktop\New folder\IndianaJones\SpriteLib3.0-v2.0\Vector.h(33,7): message : see previous definition of 'DivScalar'
+C:\Users\chutz\OneDrive\Desktop\New folder\IndianaJones\SpriteLib3.0-v2.0\Vector.cpp(42,1): warning C4273: 'vec2::Dot': inconsistent dll linkage
+C:\Users\chutz\OneDrive\Desktop\New folder\IndianaJones\SpriteLib3.0-v2.0\Vector.h(35,8): message : see previous definition of 'Dot'
+C:\Users\chutz\OneDrive\Desktop\New folder\IndianaJones\SpriteLib3.0-v2.0\Vector.cpp(48,1): warning C4273: 'vec2::GetMagnitude': inconsistent dll linkage
+C:\Users\chutz\OneDrive\Desktop\New folder\IndianaJones\SpriteLib3.0-v2.0\Vector.h(37,8): message : see previous definition of 'GetMagnitude'
+C:\Users\chutz\OneDrive\Desktop\New folder\IndianaJones\SpriteLib3.0-v2.0\Vector.cpp(53,1): warning C4273: 'vec2::GetMagnitudeSquared': inconsistent dll linkage
+C:\Users\chutz\OneDrive\Desktop\New folder\IndianaJones\SpriteLib3.0-v2.0\Vector.h(38,8): message : see previous definition of 'GetMagnitudeSquared'
+C:\Users\chutz\OneDrive\Desktop\New folder\IndianaJones\SpriteLib3.0-v2.0\Vector.cpp(62,1): warning C4273: 'vec2::Normalize': inconsistent dll linkage
+C:\Users\chutz\OneDrive\Desktop\New folder\IndianaJones\SpriteLib3.0-v2.0\Vector.h(39,7): message : see previous definition of 'Normalize'
+C:\Users\chutz\OneDrive\Desktop\New folder\IndianaJones\SpriteLib3.0-v2.0\Vector.cpp(71,1): warning C4273: 'vec2::Project': inconsistent dll linkage
+C:\Users\chutz\OneDrive\Desktop\New folder\IndianaJones\SpriteLib3.0-v2.0\Vector.h(41,7): message : see previous definition of 'Project'
+C:\Users\chutz\OneDrive\Desktop\New folder\IndianaJones\SpriteLib3.0-v2.0\Vector.cpp(88,1): warning C4273: 'vec2::operator []': inconsistent dll linkage
+C:\Users\chutz\OneDrive\Desktop\New folder\IndianaJones\SpriteLib3.0-v2.0\Vector.h(44,8): message : see previous definition of '[]'
+C:\Users\chutz\OneDrive\Desktop\New folder\IndianaJones\SpriteLib3.0-v2.0\Vector.cpp(96,1): warning C4273: 'vec2::operator -': inconsistent dll linkage
+C:\Users\chutz\OneDrive\Desktop\New folder\IndianaJones\SpriteLib3.0-v2.0\Vector.h(45,7): message : see previous definition of '-'
+C:\Users\chutz\OneDrive\Desktop\New folder\IndianaJones\SpriteLib3.0-v2.0\Vector.cpp(101,1): warning C4273: 'vec2::operator +': inconsistent dll linkage
+C:\Users\chutz\OneDrive\Desktop\New folder\IndianaJones\SpriteLib3.0-v2.0\Vector.h(46,7): message : see previous definition of '+'
+C:\Users\chutz\OneDrive\Desktop\New folder\IndianaJones\SpriteLib3.0-v2.0\Vector.cpp(106,1): warning C4273: 'vec2::operator -': inconsistent dll linkage
+C:\Users\chutz\OneDrive\Desktop\New folder\IndianaJones\SpriteLib3.0-v2.0\Vector.h(47,7): message : see previous definition of '-'
+C:\Users\chutz\OneDrive\Desktop\New folder\IndianaJones\SpriteLib3.0-v2.0\Vector.cpp(111,1): warning C4273: 'vec2::operator *': inconsistent dll linkage
+C:\Users\chutz\OneDrive\Desktop\New folder\IndianaJones\SpriteLib3.0-v2.0\Vector.h(49,7): message : see previous definition of '*'
+C:\Users\chutz\OneDrive\Desktop\New folder\IndianaJones\SpriteLib3.0-v2.0\Vector.cpp(116,1): warning C4273: 'vec2::operator /': inconsistent dll linkage
+C:\Users\chutz\OneDrive\Desktop\New folder\IndianaJones\SpriteLib3.0-v2.0\Vector.h(50,7): message : see previous definition of '/'
+C:\Users\chutz\OneDrive\Desktop\New folder\IndianaJones\SpriteLib3.0-v2.0\Vector.cpp(320,20): warning C4018: '<': signed/unsigned mismatch
+  VertexManager.cpp
+  VerticalScroll.cpp
+  VignetteEffect.cpp
+  Window.cpp
+  XInput.cpp
+  Generating Code...
+     Creating library C:\Users\chutz\OneDrive\Desktop\New folder\IndianaJones\SpriteLib3.0-v2.0\Debug\SpriteLib3.0-v2.0.lib and object C:\Users\chutz\OneDrive\Desktop\New folder\IndianaJones\SpriteLib3.0-v2.0\Debug\SpriteLib3.0-v2.0.exp
+LINK : warning LNK4286: symbol '??0vec2@@QAE@XZ (public: __thiscall vec2::vec2(void))' defined in 'Vector.obj' is imported by 'Sprite.obj'
+LINK : warning LNK4217: symbol '??0vec2@@QAE@XZ (public: __thiscall vec2::vec2(void))' defined in 'Vector.obj' is imported by 'Matrix.obj' in function '__ehhandler$?_Getal@?$vector@MV?$allocator@M@std@@@std@@ABEABV?$allocator@M@2@XZ'
+LINK : warning LNK4286: symbol '??0vec2@@QAE@XZ (public: __thiscall vec2::vec2(void))' defined in 'Vector.obj' is imported by 'PhysicsBody.obj'
+LINK : warning LNK4286: symbol '??0vec2@@QAE@XZ (public: __thiscall vec2::vec2(void))' defined in 'Vector.obj' is imported by 'PhysicsPlayground.obj'
+LINK : warning LNK4286: symbol '??0vec2@@QAE@XZ (public: __thiscall vec2::vec2(void))' defined in 'Vector.obj' is imported by 'Scene.obj'
+LINK : warning LNK4217: symbol '??0vec2@@QAE@XZ (public: __thiscall vec2::vec2(void))' defined in 'Vector.obj' is imported by 'AnimationController.obj' in function '"public: __thiscall UVCoordinates::UVCoordinates(class vec2,class vec2)" (??0UVCoordinates@@QAE@Vvec2@@0@Z)'
+LINK : warning LNK4286: symbol '??0vec2@@QAE@XZ (public: __thiscall vec2::vec2(void))' defined in 'Vector.obj' is imported by 'AnimationSpritePlayground.obj'
+LINK : warning LNK4217: symbol '??0vec2@@QAE@XZ (public: __thiscall vec2::vec2(void))' defined in 'Vector.obj' is imported by 'EffectManager.obj' in function '"public: static int __cdecl EffectManager::CreateEffect(enum EffectType,unsigned int,unsigned int)" (?CreateEffect@EffectManager@@SAHW4EffectType@@II@Z)'
+LINK : warning LNK4286: symbol '??0vec2@@QAE@XZ (public: __thiscall vec2::vec2(void))' defined in 'Vector.obj' is imported by 'FirstCreation.obj'
+LINK : warning LNK4286: symbol '??0vec2@@QAE@MM@Z (public: __thiscall vec2::vec2(float,float))' defined in 'Vector.obj' is imported by 'Sprite.obj'
+LINK : warning LNK4217: symbol '??0vec2@@QAE@MM@Z (public: __thiscall vec2::vec2(float,float))' defined in 'Vector.obj' is imported by 'TextureManager.obj' in function '"public: class Texture * * __thiscall std::vector<class Texture *,class std::allocator<class Texture *> >::_Emplace_reallocate<class Texture *>(class Texture * * const,class Texture * &&)" (??$_Emplace_reallocate@PAVTexture@@@?$vector@PAVTexture@@V?$allocator@PAVTexture@@@std@@@std@@QAEPAPAVTexture@@QAPAV2@$$QAPAV2@@Z)'
+LINK : warning LNK4286: symbol '??0vec2@@QAE@MM@Z (public: __thiscall vec2::vec2(float,float))' defined in 'Vector.obj' is imported by 'Utilities.obj'
+LINK : warning LNK4286: symbol '??0vec2@@QAE@MM@Z (public: __thiscall vec2::vec2(float,float))' defined in 'Vector.obj' is imported by 'PhysicsPlayground.obj'
+LINK : warning LNK4217: symbol '??0vec2@@QAE@MM@Z (public: __thiscall vec2::vec2(float,float))' defined in 'Vector.obj' is imported by 'PixelateEffect.obj' in function '__ehhandler$?max_size@?$_Default_allocator_traits@V?$allocator@PAVShader@@@std@@@std@@SAIABV?$allocator@PAVShader@@@2@@Z'
+LINK : warning LNK4286: symbol '??0vec2@@QAE@MM@Z (public: __thiscall vec2::vec2(float,float))' defined in 'Vector.obj' is imported by 'Player.obj'
+LINK : warning LNK4286: symbol '??0vec2@@QAE@MM@Z (public: __thiscall vec2::vec2(float,float))' defined in 'Vector.obj' is imported by 'Scene.obj'
+LINK : warning LNK4286: symbol '??0vec2@@QAE@MM@Z (public: __thiscall vec2::vec2(float,float))' defined in 'Vector.obj' is imported by 'Camera.obj'
+LINK : warning LNK4286: symbol '??0vec2@@QAE@MM@Z (public: __thiscall vec2::vec2(float,float))' defined in 'Vector.obj' is imported by 'FirstCreation.obj'
+LINK : warning LNK4286: symbol '??0vec2@@QAE@MM@Z (public: __thiscall vec2::vec2(float,float))' defined in 'Vector.obj' is imported by 'GrainEffect.obj'
+LINK : warning LNK4286: symbol '??0vec2@@QAE@MM@Z (public: __thiscall vec2::vec2(float,float))' defined in 'Vector.obj' is imported by 'Matrix.obj'
+LINK : warning LNK4217: symbol '??0vec2@@QAE@MM@Z (public: __thiscall vec2::vec2(float,float))' defined in 'Vector.obj' is imported by 'AnimationController.obj' in function '"public: __thiscall UVCoordinates::UVCoordinates(class vec2,class vec2)" (??0UVCoordinates@@QAE@Vvec2@@0@Z)'
+LINK : warning LNK4286: symbol '??0vec2@@QAE@MM@Z (public: __thiscall vec2::vec2(float,float))' defined in 'Vector.obj' is imported by 'AnimationSpritePlayground.obj'
+LINK : warning LNK4217: symbol '??0vec2@@QAE@MM@Z (public: __thiscall vec2::vec2(float,float))' defined in 'Vector.obj' is imported by 'BackEnd.obj' in function '__ehhandler$??A?$vector@U?$pair@V?$unique_ptr@$$BY0A@IU?$default_delete@$$BY0A@I@std@@@std@@I@std@@V?$allocator@U?$pair@V?$unique_ptr@$$BY0A@IU?$default_delete@$$BY0A@I@std@@@std@@I@std@@@2@@std@@QBEABU?$pair@V?$unique_ptr@$$BY0A@IU?$default_delete@$$BY0A@I@std@@@std@@I@1@I@Z'
+LINK : warning LNK4286: symbol '??0vec2@@QAE@MM@Z (public: __thiscall vec2::vec2(float,float))' defined in 'Vector.obj' is imported by 'BloomEffect.obj'
+LINK : warning LNK4217: symbol '?Dot@vec2@@QAEMV1@@Z (public: float __thiscall vec2::Dot(class vec2))' defined in 'Vector.obj' is imported by 'Matrix.obj' in function '"public: class mat2 __thiscall mat2::operator*(class mat2)" (??Dmat2@@QAE?AV0@V0@@Z)'
+LINK : warning LNK4217: symbol '??Hvec2@@QAE?AV0@V0@@Z (public: class vec2 __thiscall vec2::operator+(class vec2))' defined in 'Vector.obj' is imported by 'Matrix.obj' in function '"public: class mat2 __thiscall mat2::operator+(class mat2)" (??Hmat2@@QAE?AV0@V0@@Z)'
+LINK : warning LNK4286: symbol '??Hvec2@@QAE?AV0@V0@@Z (public: class vec2 __thiscall vec2::operator+(class vec2))' defined in 'Vector.obj' is imported by 'Utilities.obj'
+LINK : warning LNK4217: symbol '??Gvec2@@QAE?AV0@V0@@Z (public: class vec2 __thiscall vec2::operator-(class vec2))' defined in 'Vector.obj' is imported by 'Matrix.obj' in function '"public: class mat2 __thiscall mat2::operator-(class mat2)" (??Gmat2@@QAE?AV0@V0@@Z)'
+LINK : warning LNK4217: symbol '??Dvec2@@QAE?AV0@M@Z (public: class vec2 __thiscall vec2::operator*(float))' defined in 'Vector.obj' is imported by 'Matrix.obj' in function '"public: class mat2 __thiscall mat2::operator*(float)" (??Dmat2@@QAE?AV0@M@Z)'
+Sprite.obj : error LNK2001: unresolved external symbol __imp____glewBindBuffer
+VertexManager.obj : error LNK2001: unresolved external symbol __imp____glewBindBuffer
+AnimationController.obj : error LNK2001: unresolved external symbol __imp____glewBindBuffer
+Framebuffer.obj : error LNK2001: unresolved external symbol __imp____glewBindBuffer
+imgui_impl.obj : error LNK2001: unresolved external symbol __imp____glewBindBuffer
+PhysicsSystem.obj : error LNK2001: unresolved external symbol __imp____glewBindBuffer
+VertexManager.obj : error LNK2001: unresolved external symbol __imp____glewBufferData
+AnimationController.obj : error LNK2001: unresolved external symbol __imp____glewBufferData
+Framebuffer.obj : error LNK2001: unresolved external symbol __imp____glewBufferData
+imgui_impl.obj : error LNK2001: unresolved external symbol __imp____glewBufferData
+Sprite.obj : error LNK2001: unresolved external symbol __imp____glewBufferData
+AnimationController.obj : error LNK2019: unresolved external symbol __imp____glewBufferSubData referenced in function "public: void __thiscall AnimationController::UpdateUVs(void)" (?UpdateUVs@AnimationController@@QAEXXZ)
+Sprite.obj : error LNK2001: unresolved external symbol __imp____glewBufferSubData
+Sprite.obj : error LNK2001: unresolved external symbol __imp____glewBindVertexArray
+VertexManager.obj : error LNK2001: unresolved external symbol __imp____glewBindVertexArray
+AnimationController.obj : error LNK2001: unresolved external symbol __imp____glewBindVertexArray
+Framebuffer.obj : error LNK2001: unresolved external symbol __imp____glewBindVertexArray
+imgui_impl.obj : error LNK2001: unresolved external symbol __imp____glewBindVertexArray
+PhysicsSystem.obj : error LNK2001: unresolved external symbol __imp____glewBindVertexArray
+BackEnd.obj : error LNK2019: unresolved external symbol _SDL_GL_SetAttribute referenced in function "public: static void __cdecl BackEnd::InitSDL(void)" (?InitSDL@BackEnd@@SAXXZ)
+BackEnd.obj : error LNK2019: unresolved external symbol _SDL_PollEvent referenced in function "public: static void __cdecl BackEnd::PollEvents(class entt::basic_registry<unsigned int> *,bool *,bool *,bool *,bool *)" (?PollEvents@BackEnd@@SAXPAV?$basic_registry@I@entt@@PA_N111@Z)
+BackEnd.obj : error LNK2019: unresolved external symbol _SDL_Init referenced in function "public: static void __cdecl BackEnd::InitSDL(void)" (?InitSDL@BackEnd@@SAXXZ)
+BackEnd.obj : error LNK2019: unresolved external symbol __imp__glewInit@0 referenced in function "public: static void __cdecl BackEnd::InitGLEW(void)" (?InitGLEW@BackEnd@@SAXXZ)
+Texture.obj : error LNK2001: unresolved external symbol __imp____glewActiveTexture
+Framebuffer.obj : error LNK2001: unresolved external symbol __imp____glewActiveTexture
+imgui_impl.obj : error LNK2001: unresolved external symbol __imp____glewActiveTexture
+PostEffect.obj : error LNK2001: unresolved external symbol __imp____glewActiveTexture
+Sprite.obj : error LNK2001: unresolved external symbol __imp____glewActiveTexture
+Framebuffer.obj : error LNK2019: unresolved external symbol __imp____glewGenBuffers referenced in function "public: static void __cdecl Framebuffer::InitFullscreenQuad(void)" (?InitFullscreenQuad@Framebuffer@@SAXXZ)
+imgui_impl.obj : error LNK2001: unresolved external symbol __imp____glewGenBuffers
+VertexManager.obj : error LNK2001: unresolved external symbol __imp____glewGenBuffers
+Framebuffer.obj : error LNK2019: unresolved external symbol __imp____glewDrawBuffers referenced in function "public: void __thiscall Framebuffer::Bind(void)const " (?Bind@Framebuffer@@QBEXXZ)
+Framebuffer.obj : error LNK2019: unresolved external symbol __imp____glewEnableVertexAttribArray referenced in function "public: static void __cdecl Framebuffer::InitFullscreenQuad(void)" (?InitFullscreenQuad@Framebuffer@@SAXXZ)
+imgui_impl.obj : error LNK2001: unresolved external symbol __imp____glewEnableVertexAttribArray
+PhysicsSystem.obj : error LNK2001: unresolved external symbol __imp____glewEnableVertexAttribArray
+Sprite.obj : error LNK2001: unresolved external symbol __imp____glewEnableVertexAttribArray
+Framebuffer.obj : error LNK2019: unresolved external symbol __imp____glewVertexAttribPointer referenced in function "public: static void __cdecl Framebuffer::InitFullscreenQuad(void)" (?InitFullscreenQuad@Framebuffer@@SAXXZ)
+imgui_impl.obj : error LNK2001: unresolved external symbol __imp____glewVertexAttribPointer
+PhysicsSystem.obj : error LNK2001: unresolved external symbol __imp____glewVertexAttribPointer
+Sprite.obj : error LNK2001: unresolved external symbol __imp____glewVertexAttribPointer
+Framebuffer.obj : error LNK2019: unresolved external symbol __imp____glewTextureParameteri referenced in function "public: void __thiscall Framebuffer::Init(void)" (?Init@Framebuffer@@QAEXXZ)
+Texture.obj : error LNK2001: unresolved external symbol __imp____glewTextureParameteri
+Framebuffer.obj : error LNK2019: unresolved external symbol __imp____glewBindFramebuffer referenced in function "public: void __thiscall Framebuffer::Bind(void)const " (?Bind@Framebuffer@@QBEXXZ)
+PostEffect.obj : error LNK2001: unresolved external symbol __imp____glewBindFramebuffer
+Framebuffer.obj : error LNK2019: unresolved external symbol __imp____glewBlitFramebuffer referenced in function "public: void __thiscall Framebuffer::DrawToBackbuffer(void)" (?DrawToBackbuffer@Framebuffer@@QAEXXZ)
+Framebuffer.obj : error LNK2019: unresolved external symbol __imp____glewCheckFramebufferStatus referenced in function "public: bool __thiscall Framebuffer::CheckFBO(void)" (?CheckFBO@Framebuffer@@QAE_NXZ)
+Framebuffer.obj : error LNK2019: unresolved external symbol __imp____glewDeleteFramebuffers referenced in function "public: void __thiscall Framebuffer::Unload(void)" (?Unload@Framebuffer@@QAEXXZ)
+Framebuffer.obj : error LNK2019: unresolved external symbol __imp____glewFramebufferTexture2D referenced in function "public: void __thiscall Framebuffer::Init(void)" (?Init@Framebuffer@@QAEXXZ)
+Framebuffer.obj : error LNK2019: unresolved external symbol __imp____glewGenFramebuffers referenced in function "public: void __thiscall Framebuffer::Init(void)" (?Init@Framebuffer@@QAEXXZ)
+Framebuffer.obj : error LNK2019: unresolved external symbol __imp____glewTexStorage2D referenced in function "public: void __thiscall Framebuffer::Init(void)" (?Init@Framebuffer@@QAEXXZ)
+Framebuffer.obj : error LNK2019: unresolved external symbol __imp____glewGenVertexArrays referenced in function "public: static void __cdecl Framebuffer::InitFullscreenQuad(void)" (?InitFullscreenQuad@Framebuffer@@SAXXZ)
+imgui_impl.obj : error LNK2001: unresolved external symbol __imp____glewGenVertexArrays
+VertexManager.obj : error LNK2001: unresolved external symbol __imp____glewGenVertexArrays
+Game.obj : error LNK2019: unresolved external symbol _SDL_GetMouseState referenced in function "public: void __thiscall Game::MouseClick(struct SDL_MouseButtonEvent)" (?MouseClick@Game@@QAEXUSDL_MouseButtonEvent@@@Z)
+imgui_impl.obj : error LNK2019: unresolved external symbol __imp____glewBlendEquation referenced in function "void __cdecl TTK::internal::imguiDraw(struct ImDrawData *)" (?imguiDraw@internal@TTK@@YAXPAUImDrawData@@@Z)
+imgui_impl.obj : error LNK2019: unresolved external symbol __imp____glewBlendFuncSeparate referenced in function "void __cdecl TTK::internal::imguiDraw(struct ImDrawData *)" (?imguiDraw@internal@TTK@@YAXPAUImDrawData@@@Z)
+imgui_impl.obj : error LNK2019: unresolved external symbol __imp____glewAttachShader referenced in function "void __cdecl TTK::internal::imguiInit(void)" (?imguiInit@internal@TTK@@YAXXZ)
+Shader.obj : error LNK2001: unresolved external symbol __imp____glewAttachShader
+imgui_impl.obj : error LNK2019: unresolved external symbol __imp____glewBlendEquationSeparate referenced in function "void __cdecl TTK::internal::imguiDraw(struct ImDrawData *)" (?imguiDraw@internal@TTK@@YAXPAUImDrawData@@@Z)
+imgui_impl.obj : error LNK2019: unresolved external symbol __imp____glewCompileShader referenced in function "void __cdecl TTK::internal::imguiInit(void)" (?imguiInit@internal@TTK@@YAXXZ)
+Shader.obj : error LNK2001: unresolved external symbol __imp____glewCompileShader
+imgui_impl.obj : error LNK2019: unresolved external symbol __imp____glewCreateProgram referenced in function "void __cdecl TTK::internal::imguiInit(void)" (?imguiInit@internal@TTK@@YAXXZ)
+Shader.obj : error LNK2001: unresolved external symbol __imp____glewCreateProgram
+imgui_impl.obj : error LNK2019: unresolved external symbol __imp____glewCreateShader referenced in function "void __cdecl TTK::internal::imguiInit(void)" (?imguiInit@internal@TTK@@YAXXZ)
+Shader.obj : error LNK2001: unresolved external symbol __imp____glewCreateShader
+imgui_impl.obj : error LNK2019: unresolved external symbol __imp____glewDisableVertexAttribArray referenced in function "void __cdecl TTK::internal::imguiDraw(struct ImDrawData *)" (?imguiDraw@internal@TTK@@YAXPAUImDrawData@@@Z)
+VertexManager.obj : error LNK2001: unresolved external symbol __imp____glewDisableVertexAttribArray
+imgui_impl.obj : error LNK2019: unresolved external symbol __imp____glewGetAttribLocation referenced in function "void __cdecl TTK::internal::imguiInit(void)" (?imguiInit@internal@TTK@@YAXXZ)
+imgui_impl.obj : error LNK2019: unresolved external symbol __imp____glewGetUniformLocation referenced in function "void __cdecl TTK::internal::imguiInit(void)" (?imguiInit@internal@TTK@@YAXXZ)
+Shader.obj : error LNK2001: unresolved external symbol __imp____glewGetUniformLocation
+imgui_impl.obj : error LNK2019: unresolved external symbol __imp____glewLinkProgram referenced in function "void __cdecl TTK::internal::imguiInit(void)" (?imguiInit@internal@TTK@@YAXXZ)
+Shader.obj : error LNK2001: unresolved external symbol __imp____glewLinkProgram
+imgui_impl.obj : error LNK2019: unresolved external symbol __imp____glewShaderSource referenced in function "void __cdecl TTK::internal::imguiInit(void)" (?imguiInit@internal@TTK@@YAXXZ)
+Shader.obj : error LNK2001: unresolved external symbol __imp____glewShaderSource
+imgui_impl.obj : error LNK2019: unresolved external symbol __imp____glewUniform1i referenced in function "void __cdecl TTK::internal::imguiDraw(struct ImDrawData *)" (?imguiDraw@internal@TTK@@YAXPAUImDrawData@@@Z)
+Shader.obj : error LNK2001: unresolved external symbol __imp____glewUniform1i
+imgui_impl.obj : error LNK2019: unresolved external symbol __imp____glewUniformMatrix4fv referenced in function "void __cdecl TTK::internal::imguiDraw(struct ImDrawData *)" (?imguiDraw@internal@TTK@@YAXPAUImDrawData@@@Z)
+Shader.obj : error LNK2001: unresolved external symbol __imp____glewUniformMatrix4fv
+imgui_impl.obj : error LNK2019: unresolved external symbol __imp____glewUseProgram referenced in function "void __cdecl TTK::internal::imguiDraw(struct ImDrawData *)" (?imguiDraw@internal@TTK@@YAXPAUImDrawData@@@Z)
+PostEffect.obj : error LNK2001: unresolved external symbol __imp____glewUseProgram
+Shader.obj : error LNK2001: unresolved external symbol __imp____glewUseProgram
+PhysicsBody.obj : error LNK2001: unresolved external symbol "public: virtual class b2Shape * __thiscall b2CircleShape::Clone(class b2BlockAllocator *)const " (?Clone@b2CircleShape@@UBEPAVb2Shape@@PAVb2BlockAllocator@@@Z)
+PhysicsBody.obj : error LNK2001: unresolved external symbol "public: virtual int __thiscall b2CircleShape::GetChildCount(void)const " (?GetChildCount@b2CircleShape@@UBEHXZ)
+PhysicsBody.obj : error LNK2001: unresolved external symbol "public: virtual bool __thiscall b2CircleShape::TestPoint(struct b2Transform const &,struct b2Vec2 const &)const " (?TestPoint@b2CircleShape@@UBE_NABUb2Transform@@ABUb2Vec2@@@Z)
+PhysicsBody.obj : error LNK2001: unresolved external symbol "public: virtual bool __thiscall b2CircleShape::RayCast(struct b2RayCastOutput *,struct b2RayCastInput const &,struct b2Transform const &,int)const " (?RayCast@b2CircleShape@@UBE_NPAUb2RayCastOutput@@ABUb2RayCastInput@@ABUb2Transform@@H@Z)
+PhysicsBody.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall b2CircleShape::ComputeAABB(struct b2AABB *,struct b2Transform const &,int)const " (?ComputeAABB@b2CircleShape@@UBEXPAUb2AABB@@ABUb2Transform@@H@Z)
+PhysicsBody.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall b2CircleShape::ComputeMass(struct b2MassData *,float)const " (?ComputeMass@b2CircleShape@@UBEXPAUb2MassData@@M@Z)
+PhysicsBody.obj : error LNK2001: unresolved external symbol "public: virtual class b2Shape * __thiscall b2PolygonShape::Clone(class b2BlockAllocator *)const " (?Clone@b2PolygonShape@@UBEPAVb2Shape@@PAVb2BlockAllocator@@@Z)
+PhysicsBody.obj : error LNK2001: unresolved external symbol "public: virtual int __thiscall b2PolygonShape::GetChildCount(void)const " (?GetChildCount@b2PolygonShape@@UBEHXZ)
+PhysicsBody.obj : error LNK2019: unresolved external symbol "public: void __thiscall b2PolygonShape::Set(struct b2Vec2 const *,int)" (?Set@b2PolygonShape@@QAEXPBUb2Vec2@@H@Z) referenced in function "public: __thiscall PhysicsBody::PhysicsBody(int,enum BodyType,class b2Body *,class std::vector<struct b2Vec2,class std::allocator<struct b2Vec2> >,class vec2,bool,enum EntityCategories,int,float,float)" (??0PhysicsBody@@QAE@HW4BodyType@@PAVb2Body@@V?$vector@Ub2Vec2@@V?$allocator@Ub2Vec2@@@std@@@std@@Vvec2@@_NW4EntityCategories@@HMM@Z)
+PhysicsBody.obj : error LNK2019: unresolved external symbol "public: void __thiscall b2PolygonShape::SetAsBox(float,float,struct b2Vec2 const &,float)" (?SetAsBox@b2PolygonShape@@QAEXMMABUb2Vec2@@M@Z) referenced in function "public: __thiscall PhysicsBody::PhysicsBody(int,class b2Body *,float,float,class vec2,bool,enum EntityCategories,int,float,float)" (??0PhysicsBody@@QAE@HPAVb2Body@@MMVvec2@@_NW4EntityCategories@@HMM@Z)
+PhysicsBody.obj : error LNK2001: unresolved external symbol "public: virtual bool __thiscall b2PolygonShape::TestPoint(struct b2Transform const &,struct b2Vec2 const &)const " (?TestPoint@b2PolygonShape@@UBE_NABUb2Transform@@ABUb2Vec2@@@Z)
+PhysicsBody.obj : error LNK2001: unresolved external symbol "public: virtual bool __thiscall b2PolygonShape::RayCast(struct b2RayCastOutput *,struct b2RayCastInput const &,struct b2Transform const &,int)const " (?RayCast@b2PolygonShape@@UBE_NPAUb2RayCastOutput@@ABUb2RayCastInput@@ABUb2Transform@@H@Z)
+PhysicsBody.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall b2PolygonShape::ComputeAABB(struct b2AABB *,struct b2Transform const &,int)const " (?ComputeAABB@b2PolygonShape@@UBEXPAUb2AABB@@ABUb2Transform@@H@Z)
+PhysicsBody.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall b2PolygonShape::ComputeMass(struct b2MassData *,float)const " (?ComputeMass@b2PolygonShape@@UBEXPAUb2MassData@@M@Z)
+PhysicsBody.obj : error LNK2019: unresolved external symbol "public: class b2Fixture * __thiscall b2Body::CreateFixture(struct b2FixtureDef const *)" (?CreateFixture@b2Body@@QAEPAVb2Fixture@@PBUb2FixtureDef@@@Z) referenced in function "public: __thiscall PhysicsBody::PhysicsBody(int,class b2Body *,float,float,class vec2,bool,enum EntityCategories,int,float,float)" (??0PhysicsBody@@QAE@HPAVb2Body@@MMVvec2@@_NW4EntityCategories@@HMM@Z)
+PhysicsBody.obj : error LNK2019: unresolved external symbol "public: void __thiscall b2Body::SetTransform(struct b2Vec2 const &,float)" (?SetTransform@b2Body@@QAEXABUb2Vec2@@M@Z) referenced in function "public: void __thiscall PhysicsBody::SetPosition(struct b2Vec2)" (?SetPosition@PhysicsBody@@QAEXUb2Vec2@@@Z)
+PhysicsBody.obj : error LNK2019: unresolved external symbol "public: void __thiscall b2Body::SetMassData(struct b2MassData const *)" (?SetMassData@b2Body@@QAEXPBUb2MassData@@@Z) referenced in function "public: void __thiscall PhysicsBody::SetMass(float)" (?SetMass@PhysicsBody@@QAEXM@Z)
+PhysicsBody.obj : error LNK2019: unresolved external symbol "public: void __thiscall b2Body::SetFixedRotation(bool)" (?SetFixedRotation@b2Body@@QAEX_N@Z) referenced in function "public: void __thiscall PhysicsBody::SetFixedRotation(bool)" (?SetFixedRotation@PhysicsBody@@QAEX_N@Z)
+PhysicsBody.obj : error LNK2019: unresolved external symbol "public: void __thiscall b2Fixture::SetFilterData(struct b2Filter const &)" (?SetFilterData@b2Fixture@@QAEXABUb2Filter@@@Z) referenced in function "public: void __thiscall PhysicsBody::SetCategoryBit(enum EntityCategories,int)" (?SetCategoryBit@PhysicsBody@@QAEXW4EntityCategories@@H@Z)
+PhysicsBody.obj : error LNK2019: unresolved external symbol "public: void __thiscall b2World::DestroyBody(class b2Body *)" (?DestroyBody@b2World@@QAEXPAVb2Body@@@Z) referenced in function "public: void __thiscall PhysicsBody::DeleteBody(void)" (?DeleteBody@PhysicsBody@@QAEXXZ)
+PhysicsPlayground.obj : error LNK2019: unresolved external symbol "public: void __thiscall b2World::SetContactListener(class b2ContactListener *)" (?SetContactListener@b2World@@QAEXPAVb2ContactListener@@@Z) referenced in function "public: __thiscall PhysicsPlayground::PhysicsPlayground(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (??0PhysicsPlayground@@QAE@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+PhysicsPlayground.obj : error LNK2019: unresolved external symbol "public: class b2Body * __thiscall b2World::CreateBody(struct b2BodyDef const *)" (?CreateBody@b2World@@QAEPAVb2Body@@PBUb2BodyDef@@@Z) referenced in function "public: virtual void __thiscall PhysicsPlayground::InitScene(float,float)" (?InitScene@PhysicsPlayground@@UAEXMM@Z)
+PhysicsSystem.obj : error LNK2019: unresolved external symbol "public: void __thiscall b2World::Step(float,int,int)" (?Step@b2World@@QAEXMHH@Z) referenced in function "void __cdecl PhysicsSystem::Run(class b2World &)" (?Run@PhysicsSystem@@YAXAAVb2World@@@Z)
+Scene.obj : error LNK2019: unresolved external symbol "public: __thiscall b2World::b2World(struct b2Vec2 const &)" (??0b2World@@QAE@ABUb2Vec2@@@Z) referenced in function "public: __thiscall Scene::Scene(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (??0Scene@@QAE@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+Scene.obj : error LNK2019: unresolved external symbol "public: __thiscall b2World::~b2World(void)" (??1b2World@@QAE@XZ) referenced in function "public: void * __thiscall b2World::`scalar deleting destructor'(unsigned int)" (??_Gb2World@@QAEPAXI@Z)
+Shader.obj : error LNK2019: unresolved external symbol __imp____glewDeleteProgram referenced in function "public: void __thiscall Shader::Unload(void)" (?Unload@Shader@@QAEXXZ)
+Shader.obj : error LNK2019: unresolved external symbol __imp____glewDeleteShader referenced in function "public: void __thiscall Shader::Unload(void)" (?Unload@Shader@@QAEXXZ)
+Shader.obj : error LNK2019: unresolved external symbol __imp____glewDetachShader referenced in function "public: void __thiscall Shader::Unload(void)" (?Unload@Shader@@QAEXXZ)
+Shader.obj : error LNK2019: unresolved external symbol __imp____glewGetProgramInfoLog referenced in function "private: void __thiscall Shader::OutputProgramLog(void)const " (?OutputProgramLog@Shader@@ABEXXZ)
+Shader.obj : error LNK2019: unresolved external symbol __imp____glewGetProgramiv referenced in function "public: bool __thiscall Shader::LinkProgram(void)" (?LinkProgram@Shader@@QAE_NXZ)
+Shader.obj : error LNK2019: unresolved external symbol __imp____glewGetShaderInfoLog referenced in function "private: void __thiscall Shader::OutputShaderLog(unsigned int)const " (?OutputShaderLog@Shader@@ABEXI@Z)
+Shader.obj : error LNK2019: unresolved external symbol __imp____glewGetShaderiv referenced in function "private: bool __thiscall Shader::CompileShader(unsigned int)const " (?CompileShader@Shader@@ABE_NI@Z)
+Shader.obj : error LNK2019: unresolved external symbol __imp____glewUniform1f referenced in function "public: void __thiscall Shader::SendUniform(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,float const &)const " (?SendUniform@Shader@@QBEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@ABM@Z)
+Shader.obj : error LNK2019: unresolved external symbol __imp____glewUniform2fv referenced in function "public: void __thiscall Shader::SendUniform(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,float const &,float const &)const " (?SendUniform@Shader@@QBEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@ABM1@Z)
+Shader.obj : error LNK2019: unresolved external symbol __imp____glewUniform3fv referenced in function "public: void __thiscall Shader::SendUniform(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,float const &,float const &,float const &)const " (?SendUniform@Shader@@QBEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@ABM11@Z)
+Shader.obj : error LNK2019: unresolved external symbol __imp____glewUniform4fv referenced in function "public: void __thiscall Shader::SendUniform(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,float const &,float const &,float const &,float const &)const " (?SendUniform@Shader@@QBEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@ABM111@Z)
+Shader.obj : error LNK2019: unresolved external symbol __imp____glewUniformMatrix3fv referenced in function "public: void __thiscall Shader::SendUniform(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class mat3 const &)const " (?SendUniform@Shader@@QBEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@ABVmat3@@@Z)
+Shader.obj : error LNK2019: unresolved external symbol __imp____glewUniform1ui referenced in function "public: void __thiscall Shader::SendUniform(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,unsigned int const &)const " (?SendUniform@Shader@@QBEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@ABI@Z)
+Texture.obj : error LNK2019: unresolved external symbol _SOIL_load_OGL_texture referenced in function "public: bool __thiscall Texture::Load(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?Load@Texture@@QAE_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+Texture.obj : error LNK2019: unresolved external symbol _SOIL_load_image referenced in function "public: bool __thiscall Texture::Load(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?Load@Texture@@QAE_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+Texture.obj : error LNK2019: unresolved external symbol _SOIL_free_image_data referenced in function "public: bool __thiscall Texture::Load(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?Load@Texture@@QAE_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+VertexManager.obj : error LNK2019: unresolved external symbol __imp____glewDeleteBuffers referenced in function "public: static void __cdecl VertexManager::UnloadVBOs(void)" (?UnloadVBOs@VertexManager@@SAXXZ)
+VertexManager.obj : error LNK2019: unresolved external symbol __imp____glewDeleteVertexArrays referenced in function "public: static void __cdecl VertexManager::UnloadVAOs(void)" (?UnloadVAOs@VertexManager@@SAXXZ)
+Window.obj : error LNK2019: unresolved external symbol _SDL_GetError referenced in function "public: __thiscall Window::Window(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,int,int,bool)" (??0Window@@QAE@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@HH_N@Z)
+Window.obj : error LNK2019: unresolved external symbol _SDL_CreateWindow referenced in function "public: __thiscall Window::Window(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,int,int,bool)" (??0Window@@QAE@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@HH_N@Z)
+Window.obj : error LNK2019: unresolved external symbol _SDL_SetWindowTitle referenced in function "public: void __thiscall Window::SetWindowName(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?SetWindowName@Window@@QAEXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+Window.obj : error LNK2019: unresolved external symbol _SDL_SetWindowResizable referenced in function "public: void __thiscall Window::SetWindowResizable(bool)" (?SetWindowResizable@Window@@QAEX_N@Z)
+Window.obj : error LNK2019: unresolved external symbol _SDL_SetWindowFullscreen referenced in function "public: void __thiscall Window::SetFullscreen(unsigned int)" (?SetFullscreen@Window@@QAEXI@Z)
+Window.obj : error LNK2019: unresolved external symbol _SDL_DestroyWindow referenced in function "public: __thiscall Window::~Window(void)" (??1Window@@QAE@XZ)
+Window.obj : error LNK2019: unresolved external symbol _SDL_GL_CreateContext referenced in function "public: __thiscall Window::Window(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,int,int,bool)" (??0Window@@QAE@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@HH_N@Z)
+Window.obj : error LNK2019: unresolved external symbol _SDL_GL_SwapWindow referenced in function "public: void __thiscall Window::Flip(void)" (?Flip@Window@@QAEXXZ)
+Window.obj : error LNK2019: unresolved external symbol _SDL_GL_DeleteContext referenced in function "public: __thiscall Window::~Window(void)" (??1Window@@QAE@XZ)
+.\lib\glew32s.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+.\lib\glew32.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+.\lib\SDL2main.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+.\lib\SDL2test.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+.\lib\SDL2.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+.\lib\SOIL_ext.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+.\lib\Box2D.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+.\lib\Matrix.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\chutz\OneDrive\Desktop\New folder\IndianaJones\SpriteLib3.0-v2.0\Debug\SpriteLib3.0-v2.0.exe : fatal error LNK1120: 90 unresolved externals
